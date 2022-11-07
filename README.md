@@ -29,6 +29,6 @@ Nosso projeto se trata de um sistema que conecta **prestadores de serviço** com
 [Miro - Mapa Mental](https://miro.com/app/board/uXjVPG8tFX4=/)  
 [Figma - Protótipo](https://www.figma.com/file/TuuOay6M9fkFNlWHoIpjfO/Untitled?node-id=0%3A1)     
 [Bussiness Model Canvas](https://www.canva.com/design/DAFRHVnzioU/fv9tF1K0u4xyrVu44Rx4Bw/view?_branch_match_id=1117874138921109585&utm_source=Links&utm_medium=Share&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07MK0vUy03VDyw2dUoMcHf3LE0CAF5GdqgcAAAA)  
-[Pitch]()  
-[Demo]()  
-
+[MVP](https://hackathon-santander.herokuapp.com/login)  
+[Pitch](https://www.youtube.com/watch?v=iQmY8qKJUQg)  
+[Demo](https://youtu.be/FKIbwgK159E) 
