@@ -4,12 +4,6 @@
 Projeto desenvolvido durante a segunda edição do hackathon The Code Force, promovido pelo Santander e pela F1RST.
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Links Adicionais</a>&nbsp;&nbsp;&nbsp;
-</p>
-
 <br>
 
 <p align="center">
