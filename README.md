@@ -13,7 +13,7 @@ Projeto desenvolvido durante a segunda edição do hackathon The Code Force, pro
 <br>
 
 <p align="center">
-  <img alt="projeto" src="https://www.pexels.com/pt-br/foto/negocio-empresa-compra-aquisicao-7144172/" width="100%">
+  <img alt="projeto" src="https://socialmedia.vinilima.com.br/wp-content/uploads/2017/02/select_santader-0-big1.jpg" width="100%">
 </p>
 
 ## Tecnologias
@@ -24,6 +24,7 @@ Esse MVP foi desenvolvido com as tecnologias seguintes:
 - Bootstrap
 - Java
 - Spring Boot
+- PostgreSQL
 
 ## Projeto
 
